@@ -1,6 +1,18 @@
 {
-  "update_time": "2026-09-01 12:32:30",
+  "update_time": "2026-09-02 12:10:55",
   "strategy": "周线爆发",
-  "count": 0,
-  "stocks": []
+  "count": 1,
+  "stocks": [
+    {
+      "code": "002072",
+      "name": "凯瑞德",
+      "price": 9.06,
+      "change_pct": -0.22,
+      "volume": 193238.0,
+      "turnover": 0,
+      "high": 9.12,
+      "low": 8.85,
+      "open": 8.92
+    }
+  ]
 }
